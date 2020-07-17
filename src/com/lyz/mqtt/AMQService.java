@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2017-2117, Android-MQ and/or its affiliates. All rights Adam Lu(刘亚壮) reserved.
+ * Copyright (c) 2017-9999, Android-MQ and/or its affiliates. All rights binghe reserved.
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
  * You may obtain a copy of the License at
